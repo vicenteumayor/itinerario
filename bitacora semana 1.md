@@ -10,7 +10,8 @@ Construir la identidad del equipo, acordar su forma de trabajo y realizar una pr
 
 ## Foto del equipo
 
-![Foto del equipo](../imagenes/S01/foto-equipo.jpg)
+<img width="896" height="1195" alt="cc1f79ea-44d4-485c-a687-52ea80b31b62" src="https://github.com/user-attachments/assets/376b4043-58e9-4f2a-a32d-788b940cd9d5" />
+
 
 ## Nombre del equipo
 
