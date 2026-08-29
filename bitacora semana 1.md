@@ -68,7 +68,6 @@ En San José de Maipo, el monitoreo de riesgo de aluviones en quebradas habitada
 ## Compromisos individuales SMART
 
 | Integrante | Compromiso | Evidencia de cumplimiento | Fecha |
-|---|---|---|---|
 | Vicente Rebolledo | Me comprometo a ensamblar y programar el circuito base con el sensor ultrasónico y el módulo de vibración, logrando que capturen datos correctamente. | [Evidencia] | 18/08/26 |
 | Josefa Barra | Me comprometo a ir tomando fotos de nuestros avances, colaborar con ideas y organizarme para poder llevar a cabo un buen proyecto entre todos. | [Evidencia] | 18/08/26 |
 | Tomás Peñifil | Me comprometo a redactar e ir estructurando semanalmente la bitácora, proporcionando los avances que el equipo ha logrado en dicha semana. | [Evidencia] | [Fecha] |
@@ -79,10 +78,9 @@ En San José de Maipo, el monitoreo de riesgo de aluviones en quebradas habitada
 Los acuerdos que el equipo adoptó son trabajar de manera colaborativa a través de llamadas de Discord y coordinar los avances y reuniones en Whatsapp.
 
 | Tarea | Responsable(s) | Fecha límite | Estado |
-|---|---|---|---|
-| Recaudar información de la primera y segunda semana de trabajo | Tomás Peñifil | [Fecha] | Pendiente |
-| Gestionar GitHub y subir la información a la plataforma | Vicente Rebolledo | [Fecha] | Pendiente |
-| Buscar información de aluviones históricos en la zona | María Carrasco y Josefa Barra | [Fecha] | Pendiente |
+| Recaudar información de la primera y segunda semana de trabajo | Tomás Peñifil 
+| Gestionar GitHub y subir la información a la plataforma | Vicente Rebolledo 
+| Buscar información de aluviones históricos en la zona | María Carrasco y Josefa Barra 
 
 ## Reflexión breve
 
@@ -94,3 +92,56 @@ Lo más difícil fue acordar las tareas que se asignaría a cada integrante del 
 
 **¿Qué necesitamos resolver en la próxima sesión?**
 Para la siguiente sección necesitamos abordar la problemática de cómo conoceremos el entorno en el que trabajaremos, refiriéndonos al "Cajón de Maipo".
+
+# Bitácora Semana 2
+
+**Proyecto:** Sistema de alerta temprana de aluviones en San José de Maipo  
+**Nombre del equipo:** AluviMaipo  
+
+## 1. Actualización del Equipo y Reorganización
+
+Durante la segunda semana, le dimos la bienvenida a la nueva integrante de equipo llamada Constanza Gonzalez, lo que fortaleció aún más nuestras capacidades de abordar la problemática, sin embargo también nos exigió volver a cuestionarnos la distribución de las tareas y funciones de cada participante. Ajustamos nuestros acuerdos para garantizar que cada miembro del equipo cumpla un rol.
+
+## 2. Mapa del Desafío (Papel kraft)
+
+Con el objetivo de profundizar en nuestro proyecto, elaboramos un esquema conceptual en papel kraft en el cual desglosamos la problemática central y sus distintos componentes:
+
+A continuación se mostrará una imagen del Mapa y luego una breve explicación:
+
+<img width="1280" height="960" alt="ad097312-a6d3-4060-8c97-d5040d2bdafd" src="https://github.com/user-attachments/assets/84433e81-c597-49f3-ad2a-3c928ec7dfab" />
+
+
+* **Desafío Central:** Desarrollar una alternativa de monitoreo y alerta temprana de bajo costo.
+* **Causas Identificadas:**
+  * Presencia de más de 50 quebradas en la zona.
+  * Alta dependencia de registros manuales.
+  * Condiciones geográficas complejas de la cordillera.
+  * Falta de automatización, conectividad y sistemas de monitoreo continuo.
+* **Contexto del Entorno:**
+  * Territorio categorizado de alto riesgo geológico (zona andina/preandina).
+  * Presencia de población asentada cerca de quebradas peligrosas.
+* **Actores Involucrados:**
+  * Observadores locales y la comunidad residente.
+  * Municipalidad de San José de Maipo.
+  * Organismos técnicos y de emergencia (SERNAGEOMIN y SENAPRED).
+  * Equipo nuestro (AluviMaipo).
+* **Consecuencias e Impactos Directos:**
+  * Riesgos graves para los habitantes e inundaciones.
+  * Vacíos de información debido a datos incompletos.
+  * Ocurrencia de desprendimientos de nieve y pérdida de viviendas.
+
+## 3. Formulación y Análisis de Preguntas Clave
+
+A partir del esquema del problema, surgieron y formulamos un conjunto de preguntas estratégicas para ayudarnos a clasificar si es que estas eran conocidas o no por el equipo. Dándonos a conocer cuáles de estas podían ser levantadas por búsqueda de información en sitios webs y cuáles otras tenían que ser atendidas por algún organismo externo a la universidad como es "SERNAGEOMIN".
+
+A continuación se presenta el listado de preguntas:
+
+* ¿Cuántas personas o casas son las afectadas? *(Requiere levantar información censal y territorial)*
+* ¿Qué sector del Cajón del Maipo es el más perjudicado? *(Requiere mapeo geográfico de zonas críticas)*
+* ¿Cuántas son las personas que habitan en esa zona? *(Vinculado al alcance de protección del prototipo)*
+* ¿Qué tipo de sensores pluviométricos poseen los habitantes? ¿Son automáticos? *(Dominio técnico que debemos evaluar para definir la compatibilidad de nuestro sistema)*
+* ¿Los habitantes poseen conexión a internet? *(Dominio de factibilidad técnica crucial para definir el módulo de comunicación de datos)*
+
+## 4. Acuerdos y Próxima semana
+
+* **Nuevos Acuerdos:** Organizar la presentación de la semana 03, brindando información a la nueva compañera para que logre interiorizar sus conocimientos con las distintas herramientas utilizadas por el grupo (Github, Discord, Whatsapp).
