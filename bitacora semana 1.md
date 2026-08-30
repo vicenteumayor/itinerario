@@ -145,3 +145,27 @@ A continuación se presenta el listado de preguntas:
 ## 4. Acuerdos y Próxima semana
 
 * **Nuevos Acuerdos:** Organizar la presentación de la semana 03, brindando información a la nueva compañera para que logre interiorizar sus conocimientos con las distintas herramientas utilizadas por el grupo (Github, Discord, Whatsapp).
+## 5. Fuentes de información
+
+**Análisis de reportaje sobre aluviones en San José de Maipo:**
+Se revisó material audiovisual sobre la emergencia de enero de 2021 para comprender los impactos reales en el terreno. Se observó que las intensas lluvias generaron rápidos flujos aluviales (barro, rocas y escombros) que aislaron a la comunidad. Las principales consecuencias fueron el bloqueo y destrucción de rutas principales y puentes, sumado al corte generalizado de servicios básicos: caída del tendido eléctrico (cortes de luz) y colapso de plantas potabilizadoras por la turbiedad del río (cortes de agua). Esta información confirma que, ante una emergencia, los observadores manuales quedan incomunicados y atrapados físicamente, validando la urgencia de nuestro desafío.
+
+**Bibliografía**
+* Reportajes 24 Horas. (2021, 31 de enero). *Impacto de los aluviones en San José de Maipo y puentes cortados* [Video]. YouTube. https://www.youtube.com/watch?v=AkBZCxlsFsE
+
+**Análisis de conectividad y brecha digital:**
+Se investigó la factibilidad técnica de transmisión de datos en San José de Maipo. Según datos de la Subtel (2022), el acceso a internet fijo en las zonas rurales de la comuna alcanza apenas el 31%. Durante un frente de mal tiempo, la dependencia de redes móviles resulta crítica, ya que la geografía bloquea la señal y la caída del tendido eléctrico apaga las antenas celulares. Esta brecha digital confirma que el sistema de recolección manual actual es inviable, ya que los observadores quedan incomunicados. A su vez, establece el parámetro técnico de que nuestro prototipo deberá ser capaz de almacenar datos localmente o utilizar módulos de comunicación alternativos de baja frecuencia para operar bajo nula conectividad.
+
+**Bibliografía**
+* Leal, I. (2022, 19 de enero). *Santiago offline: acceso a internet en las comunas más vulnerables llega solo al 31%*. La Tercera. https://www.latercera.com/earlyaccess/noticia/santiago-offline-acceso-a-internet-en-las-comunas-mas-vulnerables-llega-solo-al-31/VHXEBVYVHRB6FHCXGCEXIPQMXY/
+
+## 6. Datos de Población y Vulnerabilidad
+
+* **Población Base:** La comuna cuenta con una población permanente de aproximadamente 18.000 a 18.600 habitantes según datos censales recientes, cifra que aumenta drásticamente en los meses de verano debido a la población flotante turística.
+* **Quebradas Críticas:** Según los registros técnicos de SERNAGEOMIN, existen alrededor de 105 quebradas identificadas con peligro de generar aluviones.
+* **Exposición Directa:** De ese total, cerca de 50 quebradas colindan de forma directa con sectores habitados. Esto significa que gran parte de la comunidad reside en zonas con exposición inmediata ante la activación de flujos de lodo.
+* **Damnificados Históricos:** Durante el frente de mal tiempo de enero de 2021, la activación simultánea de múltiples quebradas dejó un saldo de aproximadamente 400 personas damnificadas, aislando a las comunidades por los cortes de puentes y rutas.
+
+**Bibliografía**
+* Biblioteca del Congreso Nacional de Chile. (2017). *Reporte Comunal: San José de Maipo*. Sistema Integrado de Información Territorial. https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2017&idcom=13203
+* Flores Belmar, J. (2021, 31 de enero). *Aluviones cortan caminos, dañan viviendas, generan evacuaciones y riesgo de corte de agua en la RM.* BioBioChile. https://www.biobiochile.cl/noticias/nacional/chile/2021/01/31/aluviones-cortan-caminos-danan-viviendas-generan-evacuaciones-y-riesgo-de-corte-de-agua-en-la-rm.shtml
