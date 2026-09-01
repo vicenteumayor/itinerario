@@ -172,5 +172,7 @@ Se investigó la factibilidad técnica de transmisión de datos en San José de 
 
 **Primera Ficha Desafío**
 [Ficha 1 sep (1).pdf](https://github.com/user-attachments/files/31711246/Ficha.1.sep.1.pdf)
+# Bitácora Semana 3 
+
 
 
