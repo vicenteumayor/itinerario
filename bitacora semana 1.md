@@ -169,3 +169,8 @@ Se investigó la factibilidad técnica de transmisión de datos en San José de 
 **Bibliografía**
 * Biblioteca del Congreso Nacional de Chile. (2017). *Reporte Comunal: San José de Maipo*. Sistema Integrado de Información Territorial. https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2017&idcom=13203
 * Flores Belmar, J. (2021, 31 de enero). *Aluviones cortan caminos, dañan viviendas, generan evacuaciones y riesgo de corte de agua en la RM.* BioBioChile. https://www.biobiochile.cl/noticias/nacional/chile/2021/01/31/aluviones-cortan-caminos-danan-viviendas-generan-evacuaciones-y-riesgo-de-corte-de-agua-en-la-rm.shtml
+
+**Primera Ficha Desafío**
+[Ficha 1 sep (1).pdf](https://github.com/user-attachments/files/31711246/Ficha.1.sep.1.pdf)
+
+
