@@ -181,6 +181,10 @@ Para iniciar la clase realizamos una actividad que consistía en ordenar un poco
 1. <img width="960" height="1280" alt="actividad s3" src="https://github.com/user-attachments/assets/0509e831-5dec-4f47-887d-2bdab22b1efc" />
 2. <img width="960" height="1280" alt="actividad s3, 2" src="https://github.com/user-attachments/assets/85130712-d5c5-4998-9675-88c24dfc35f0" />
 
+El día martes en la noche nos juntamos por meet donde concluimos que teníamos muchas dudas al respecto al proyecto que teníamos que aclarar con la profesora y terminar la bitácora en conjunto
+
+<img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/32d0528e-ccd8-4102-a866-6218aeb4f4e4" />
+
 ## Foto presentación
 <img width="1600" height="900" alt="WhatsApp Image 2026-09-03 at 13 10 58" src="https://github.com/user-attachments/assets/6e652977-6440-46c6-b3dc-f89945463ecb" /> 
 
@@ -190,7 +194,8 @@ Para iniciar la clase realizamos una actividad que consistía en ordenar un poco
 - Ver bien si es que los pluviometros artesanales que están en la zona de vdd funcionan.
 - Buscar quebradas más peligrosas o las de mayor peligro en la zona
 - Ver bien si es que los pluviometros artesanales que están en la zona de vdd funcionan.
-- Programar reunión con la profe
+- Programar reunión con la profesora..
+- Bajar datos de la red de pluviómetros y ver cuál es el punto más crítico. 
 ## Pregunta de suposición
 ¿Podemos ir realmente al cajon del maipo a corroborar qué es lo que podemos mejorar en los pluviómetros artesanales?
 
