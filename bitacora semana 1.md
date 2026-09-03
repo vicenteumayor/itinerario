@@ -199,6 +199,8 @@ El día martes en la noche nos juntamos por meet donde concluimos que teníamos 
 ## Pregunta de suposición
 ¿Podemos ir realmente al cajon del maipo a corroborar qué es lo que podemos mejorar en los pluviómetros artesanales?
 
+El día martes en la noche nos juntamos por meet donde concluimos que teníamos muchas dudas al respecto al proyecto que teníamos que aclarar con la profesora y terminar la bitácora en conjunto
+
 
 
 
