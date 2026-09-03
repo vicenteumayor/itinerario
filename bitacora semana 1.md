@@ -172,7 +172,32 @@ Se investigó la factibilidad técnica de transmisión de datos en San José de 
 
 ## Primera Ficha Desafío
 [Ficha 1 sep (1).pdf](https://github.com/user-attachments/files/31711246/Ficha.1.sep.1.pdf)
+
 # Bitácora Semana 3 
+Esta semana presentamos un pitch el cúal la profesora nos corrigió las ideas planteadas de los supuestos, al finalizar la presentación llegamos a la conclusión de comprometernos a comunicarnos y no suponer datos, investigar mejor y escucharnos como equipo. Antes de las presentaciones la profesora nos hizo una actividad para perder perder la verguenza frente a nuestros compañeros y poder conocerlos un poco más. 
+
+Para iniciar la clase realizamos una actividad que consistía en ordenar un poco las ideas de nuestro desafío.
+## Evidencia actividad en clases
+1. <img width="960" height="1280" alt="actividad s3" src="https://github.com/user-attachments/assets/0509e831-5dec-4f47-887d-2bdab22b1efc" />
+2. <img width="960" height="1280" alt="actividad s3, 2" src="https://github.com/user-attachments/assets/85130712-d5c5-4998-9675-88c24dfc35f0" />
+
+## Foto presentación
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-03 at 13 10 58" src="https://github.com/user-attachments/assets/6e652977-6440-46c6-b3dc-f89945463ecb" /> 
+
+## Tareas pendientes:
+- Buscar información concreta y no supuestos.
+- Buscar quebradas más peligrosas o las de mayor peligro en la zona.
+- Ver bien si es que los pluviometros artesanales que están en la zona de vdd funcionan.
+- Buscar quebradas más peligrosas o las de mayor peligro en la zona
+- Ver bien si es que los pluviometros artesanales que están en la zona de vdd funcionan.
+- Programar reunión con la profe
+## Pregunta de suposición
+¿Podemos ir realmente al cajon del maipo a corroborar qué es lo que podemos mejorar en los pluviómetros artesanales?
+
+
+
+
+
 
 
 
