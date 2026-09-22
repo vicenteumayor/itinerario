@@ -1,7 +1,7 @@
 # S01 - Identidad del equipo y desafío
 
 **Fecha:** 18-08-26
-**Participantes:** Josefa Barra, María Carrasco Valencia, Vicente Rebolledo, Tomás Peñifil
+**Participantes:** Josefa Barra, María Carrasco Valencia, Vicente Rebolledo, Tomás Peñifil, Constanza González
 **Lugar o modalidad:** [Lugar / presencial / en línea]
 
 ## Objetivo de la sesión
