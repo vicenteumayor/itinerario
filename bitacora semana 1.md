@@ -202,7 +202,9 @@ El día martes en la noche nos juntamos por meet donde concluimos que teníamos 
 # Bitácora semana 4
 En la semana 4, la actividad que debíamos hacer consistía en ir a un punto establecido por la profesora fuera de la universidad y observar el entorno. El lugar que nos tocó fue la esquina entre Miguel Claro y Avenida Providencia, cada uno tenía que observar algo distinto y anotatar las evidencias justificando cada una de las observaciones. 
 
-## Evidencia de 
+## Evidencia de trabajo hecho en clases
+<img width="3024" height="4032" alt="IMG_3884" src="https://github.com/user-attachments/assets/2b901e8b-5f0d-49e1-b334-d64c4f79d9d4" />
+
 
 <img width="1600" height="515" alt="image" src="https://github.com/user-attachments/assets/55645223-e204-4b97-a3e0-5e1cb5a58ba0" />
 
