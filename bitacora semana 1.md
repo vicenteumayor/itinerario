@@ -211,6 +211,26 @@ En la semana 4, la actividad que debíamos hacer consistía en ir a un punto est
 ## Evidencia de llamada por meet el día 16 Septiembre para preparar las preguntas de la siguiente clase.  
 <img width="1435" height="802" alt="image" src="https://github.com/user-attachments/assets/5fbfb79c-a733-42e4-a552-a265740bf395" />
 
+# Preguntas propuestas para videollamada
+1. ¿Con qué tipo de red inalámbrica disponen en la zona (Internet, Wifi)?
+2. Los pluviómetros están distribuidos en zonas estratégicas y estables? 
+3. ¿Cómo son los observadores? son personas? ¿son residentes?
+4. Edad promedio de habitantes para ver si es viable una aplicación donde todos o al menos una persona por casa vea el mensaje de alerta
+5. Que tipo de información instrumental o capas-geoespaciales recomiendan priorizar para modelar y evaluar los riesgos en la zona 
+6. Cual es la quebrada más peligrosa de la zona de los aluviones
+7. El cambio climática ha afectado las geomorfologías donde se producen los aluviones a medida de que ha pasado el tiempo 
+8. Como se dan cuenta o perciben que una quebrada puede ser riesgosa para producir un aluvión
+9. Cuantos aluviones promedios tienen en épocas de lluvia 
+10. Hay quebradas que sean accesibles para que cualquier persona pueda lleg
+11. Que información sería más útil recibir en caso de alerta de aluvión
+12. Como es la cadena de comunicación de las instituciones ( Sernageomin, cenapred, muni de san josé de maipo) con los habitantes en caso de alerta. 
+13. Como es el registro de los datos( Que es lo que ven para ir identificando el peligro), y como lo interpretan y que pasos a seguir toman para decidir qué hacer. 
+14. Que brecha existe entre la advertencia técnica oficial y la reacción real o preparación de los habitantes o comerciantes de la zona 
+15. ¿Qué es lo que más demora el envío de los datos? Desplazarse de lugar, falta de señal, anotar los datos, digitalizarlos, enviarlos o esperar a una persona que está responsable solo de ese proceso?
+16. ¿Con qué frecuencia se realizan estas mediciones: cada hora, minutos, diariamente o dependiendo de las condiciones climáticas? 
+17. Cuando no hay señal, ¿Qué se debe hacer para enviar la información?
+18. ¿Qué datos son realmente prioritarios? 
+
 
 
 
