@@ -210,7 +210,7 @@ En la semana 4, la actividad que debíamos hacer consistía en ir a un punto est
 
 ## Evidencia de llamada por meet el día 16 Septiembre para preparar las preguntas de la siguiente clase.  
 <img width="1435" height="802" alt="image" src="https://github.com/user-attachments/assets/5fbfb79c-a733-42e4-a552-a265740bf395" />
-
+## Avances durante la semana de receso
 # Preguntas propuestas para videollamada
 1. ¿Con qué tipo de red inalámbrica disponen en la zona (Internet, Wifi)?
 2. Los pluviómetros están distribuidos en zonas estratégicas y estables? 
@@ -229,7 +229,10 @@ En la semana 4, la actividad que debíamos hacer consistía en ir a un punto est
 15. ¿Qué es lo que más demora el envío de los datos? Desplazarse de lugar, falta de señal, anotar los datos, digitalizarlos, enviarlos o esperar a una persona que está responsable solo de ese proceso?
 16. ¿Con qué frecuencia se realizan estas mediciones: cada hora, minutos, diariamente o dependiendo de las condiciones climáticas? 
 17. Cuando no hay señal, ¿Qué se debe hacer para enviar la información?
-18. ¿Qué datos son realmente prioritarios? 
+18. ¿Qué datos son realmente prioritarios?
+
+Durante la reunión por meet, nos reunimos con un integrante de otro equipo que lleva el mismo desafío como proyecto. Para complementar nuestras ideas y formular las preguntas, reunimos información en conjunto y así también aclaramos un poco más nuestra misión y visión de nuestro proyecto. 
+
 
 
 
