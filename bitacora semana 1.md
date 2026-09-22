@@ -211,9 +211,9 @@ En la semana 4, la actividad que debíamos hacer consistía en ir a un punto est
 ## Evidencia de llamada por meet el día 16 Septiembre para preparar las preguntas de la siguiente clase.  
 <img width="1435" height="802" alt="image" src="https://github.com/user-attachments/assets/5fbfb79c-a733-42e4-a552-a265740bf395" />
 
-## Avances durante la semana de receso
+# Avances durante la semana de receso
 
-# Preguntas propuestas para videollamada
+## Preguntas propuestas para videollamada
 
 1. ¿Con qué tipo de red inalámbrica disponen en la zona (Internet, Wifi)?
 2. Los pluviómetros están distribuidos en zonas estratégicas y estables? 
