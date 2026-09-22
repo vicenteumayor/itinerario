@@ -200,10 +200,14 @@ El día martes en la noche nos juntamos por meet donde concluimos que teníamos 
 ¿Podemos ir realmente al cajon del maipo a corroborar qué es lo que podemos mejorar en los pluviómetros artesanales?
 
 # Bitácora semana 4
-En la semana 4, la actividad que debíamos hacer consistía en ir a un punto establecido por la profesora fuera de la universidad y observar el entorno. El lugar que nos tocó fue la esquina entre Miguel Claro y Avenida Providencia, cada uno tenía que observar algo distinto buscando evidencias y 
+En la semana 4, la actividad que debíamos hacer consistía en ir a un punto establecido por la profesora fuera de la universidad y observar el entorno. El lugar que nos tocó fue la esquina entre Miguel Claro y Avenida Providencia, cada uno tenía que observar algo distinto y anotatar las evidencias justificando cada una de las observaciones. 
+
+## Evidencia de 
 
 <img width="1600" height="515" alt="image" src="https://github.com/user-attachments/assets/55645223-e204-4b97-a3e0-5e1cb5a58ba0" />
 
+## Evidencia de llamada por meet  
+<img width="1435" height="802" alt="image" src="https://github.com/user-attachments/assets/5fbfb79c-a733-42e4-a552-a265740bf395" />
 
 
 
