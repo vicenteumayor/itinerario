@@ -242,7 +242,7 @@ Durante la clase de la semana 6 realizamos actividades grupales enfocadas en el 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/76cdb15f-3681-4703-846c-c8e520c8a767" />
 
 ## Interpretación de la tabla: 
-A partir de las observaciones de la profesora sobre la necesidad de incorporar más posibles ideas de prototipos del proyecto, se desarrollo la tabla observada en la imagen, en la primera propuesta llamada "Camara de visualización" pudimos asignar atributos por su autonomía y la seguridad para los usuarios a la hora de usarla, los contras presentados fueron que la idea era muy costosa.
+A partir de las observaciones de la profesora sobre la necesidad de incorporar más posibles ideas de prototipos del proyecto, se desarrollo la tabla observada en la imagen, en la primera propuesta llamada "Camara de visualización" pudimos asignar atributos por su autonomía y la seguridad para los usuarios a la hora de usarla, los contras presentados fueron que la idea era muy costosa. Para abarcar el radio de 
 La segunda propuesta fue la red de sensores, evaluada como una alternativa precisa, efectiva y altamente accesible para la medición directa de variables a la hora de registrar 
 La tercera y ultima propuesta fue la red de pluviómetros : Enfocada como una solución adaptable, precisa, artesanal y de muy bajo costo, ideal para despliegues comunitarios.
 
