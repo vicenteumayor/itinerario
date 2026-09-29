@@ -238,7 +238,10 @@ En la semana 4, la actividad que debíamos hacer consistía en ir a un punto est
 Durante la reunión por meet, nos reunimos con un integrante de otro equipo que lleva el mismo desafío como proyecto. Para complementar nuestras ideas y formular las preguntas, reunimos información en conjunto y así también aclaramos un poco más nuestra misión y visión de nuestro proyecto. 
 # Bitácora Semana 06:
 Durante la clase de la semana 6 realizamos actividades grupales enfocadas en el analisis de las distintas propuestas que hemos acordado como grupo, para ello se realizo una actividad en la cual se le asignaban atributos a distintas ideas de proyectos, con el fin de ver cual es más factible, cual es el más costoso y cual es el más seguro tanto como para las personas como para nosotros a la hora de implementarlo o ponerlo a prueba. Durante la actividad se postularon las siguientes ideas
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/458d5a27-2d44-4edd-9e8c-f7902c6db2db" />
+
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5552713b-a7ed-49ed-b797-e1022a21f3c0" />
+
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/76cdb15f-3681-4703-846c-c8e520c8a767" />
 
 ## Interpretación de la tabla: 
@@ -250,7 +253,7 @@ Luego de postular las ideas del equipo con los atributos que nos brindó la prof
 -Kit inteligente para pluviómetros ciudadanos: Basicamente es la incorporación de sensores a pluviómetros existentes para automatizar la lectura y el envío de datos en tiempo real sin requerir un observador manual, es realizar una mezcla de las ideas anteriores. Como grupo nos dimos cuenta de que juntos funcionarían mucho mejor que de forma autonoma.
 -Red de comunicación de emergencia independiente de señal celular: Implementación de tecnología de largo alcance para interconectar pluviómetros y sensores hasta un nodo con conexión, esto para ayudar a las personas que no tengan una conexión a internet fija, que sabemos como equipo que es muy común en zonas pre-cordilleranas. 
 -Semáforo comunitario de riesgo: Dispositivo visual en puntos estratégicos que cambia de color según los umbrales de riesgo detectados por los datos de lluvia y sensores.
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/458d5a27-2d44-4edd-9e8c-f7902c6db2db" />
+
 
 Luego el equipo realizó reuniones durante la semana, vía "Discord" para organizar la siguiente semana, debido a que la profesora mandó un correo avisandoles a sus alumnos la importancia de preparar bien la presentación estilo Pitch.
 
