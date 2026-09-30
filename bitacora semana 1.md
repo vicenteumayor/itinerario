@@ -277,4 +277,14 @@ Comprendimos que no basta con plantear una idea general, sino que debemos pensar
 Próximos pasos:
 Continuar desarrollando las tres propuestas, realizar sus bosquejos, definir los componentes necesarios, estimar sus costos y analizar las ventajas, oportunidades, dudas y posibles dificultades de cada alternativa para posteriormente compararlas.
 
+## Registro Actividad hecha en clases
+<img width="960" height="1280" alt="PHOTO-2026-09-29-13-57-28" src="https://github.com/user-attachments/assets/1a7b756a-282e-4b6a-bea3-94e49063c521" />
+
+<img width="960" height="1280" alt="PHOTO-2026-09-29-13-58-24" src="https://github.com/user-attachments/assets/bd05d743-55ce-4548-b63c-34893a4609e1" />
+<img width="960" height="1280" alt="PHOTO-2026-09-29-13-58-38" src="https://github.com/user-attachments/assets/f45a2c04-cac6-4142-8e60-fc64358c5af3" />
+
+
+
+
+
 
