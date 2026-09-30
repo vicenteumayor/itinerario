@@ -257,8 +257,24 @@ Luego de postular las ideas del equipo con los atributos que nos brindó la prof
 
 Luego el equipo realizó reuniones durante la semana, vía "Discord" para organizar la siguiente semana, debido a que la profesora mandó un correo avisandoles a sus alumnos la importancia de preparar bien la presentación estilo Pitch.
 
+# Semana 07
+Actividad realizada:
+Durante esta semana trabajamos en el desarrollo de tres propuestas de solución para mejorar el monitoreo comunitario de aluviones en San José de Maipo. Tomamos las ideas que ya habíamos planteado anteriormente y comenzamos a desarrollarlas con mayor profundidad, considerando cómo funcionarían, quiénes las utilizarían, cómo se registrarían y visualizarían los datos y qué ocurriría en sectores con poca o nula conexión a internet.
 
+Las tres propuestas trabajadas fueron:
+1. Sistema híbrido de observador + instrumento: combina la medición automática de lluvia y temperatura con la información entregada por un observador en terreno, quien puede indicar si la situación se encuentra normal, en precaución o peligro.
 
+2. Kit inteligente para pluviómetros ciudadanos: busca adaptar los pluviómetros existentes para que las mediciones se registren automáticamente, reduciendo el trabajo manual y facilitando la identificación de cambios importantes.
 
+3. Red de comunicación de emergencia: busca transmitir los datos desde sectores sin conexión a internet o señal celular mediante comunicación por radio de largo alcance, hasta un punto receptor donde la información pueda ser visualizada o posteriormente enviada a una plataforma.
+
+Decisiones tomadas:
+Definimos que las mediciones podrían realizarse periódicamente y que no es necesario mostrar cada dato al usuario, sino mantener un historial y destacar los cambios más relevantes. También analizamos dónde se almacenaría la información, cómo podría visualizarse y qué ocurriría si se pierde la conexión. Para las propuestas que utilizan internet, consideramos una plataforma web de visualización, mientras que la tercera propuesta busca precisamente disminuir la dependencia de la señal celular o internet.
+
+Aprendizaje de la semana:
+Comprendimos que no basta con plantear una idea general, sino que debemos pensar en todo su funcionamiento: qué información recibe, cada cuánto se mide, cómo se identifican los datos importantes, dónde se almacenan, cómo llegan al usuario y qué ocurre ante una falla o pérdida de conexión. También entendimos que las tres propuestas deben solucionar el desafío de maneras diferentes y ser posibles de llevar posteriormente a un prototipo.
+
+Próximos pasos:
+Continuar desarrollando las tres propuestas, realizar sus bosquejos, definir los componentes necesarios, estimar sus costos y analizar las ventajas, oportunidades, dudas y posibles dificultades de cada alternativa para posteriormente compararlas.
 
 
