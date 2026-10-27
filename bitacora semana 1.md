@@ -287,9 +287,9 @@ Continuar desarrollando las tres propuestas, realizar sus bosquejos, definir los
 En la semana 08, se organizó una reunión con SERNAGEOMIN, lo cúal nos ayudó a resolver nuestras inquietudes como grupo, gracias a la  información entregada por Mónica. 
 ## Semana 09
 Durante la semana nos reunimos con la profesora para tener una reunión en su oficina, donde resolvimos dudas y nos orientó con respecto a nuestro proyecto. 
-## Semana 09
+## Semana 10
 Después de la retroalimentacion brindada por la profesora el equipo logró avanzar con la propuesta y definimos los roles de cada integrante del grupo. Esto nos ayudó a mejorar nuestras ideas para la propuesta que se eligió en conjunto, implementando más las habilidades de Ingeniería civil industrial e electrónica. Para complementar, pudimos empezar a desarrollar el informe solicitado para la unidad 2 de el curso de capstone, mejorando nuestras ideas iniciales y aportando nuestros conocimientos al objetivo del curso.
-## Semana 10 
+## Semana 11 
 La clase de la semana 10 fue realizada de forma remota, en la cúal tuvimos una breve introducción sobre el prototipo escogido como grupo. La profesora nos orientó sobre los pasos a seguir y nos dio una retroalimentación para continuar con nuestro trabajo.
 
 
