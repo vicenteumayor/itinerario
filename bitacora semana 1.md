@@ -291,5 +291,11 @@ Durante la semana nos reunimos con la profesora para tener una reunión en su of
 Después de la retroalimentacion brindada por la profesora el equipo logró avanzar con la propuesta y definimos los roles de cada integrante del grupo. Esto nos ayudó a mejorar nuestras ideas para la propuesta que se eligió en conjunto, implementando más las habilidades de Ingeniería civil industrial e electrónica. Para complementar, pudimos empezar a desarrollar el informe solicitado para la unidad 2 de el curso de capstone, mejorando nuestras ideas iniciales y aportando nuestros conocimientos al objetivo del curso.
 ## Semana 11 
 La clase de la semana 10 fue realizada de forma remota, en la cúal tuvimos una breve introducción sobre el prototipo escogido como grupo. La profesora nos orientó sobre los pasos a seguir y nos dio una retroalimentación para continuar con nuestro trabajo.
+## Semana 12
+Durante la clase de la semana 12, presentamos la propuesta de prototipo que escogimos para el Desafío 09 de AluviMaipo. Nuestro equipo propuso un kit inteligente para pluviómetros ciudadanos, diseñado para facilitar la lectura y el registro de las mediciones de lluvia. En un pitch de máximo diez minutos, explicamos el problema que buscamos abordar, cómo funcionaría el kit y de qué manera podría apoyar a las personas que realizan estas mediciones.
+
+También escuchamos las presentaciones de nuestros compañeros y conocimos las soluciones que plantearon para sus respectivos desafíos. Fue una oportunidad para ver cómo otros equipos explicaron el problema, justificaron la elección de su prototipo y comunicaron su propuesta.
+
+Actualmente, como equipo, estamos trabajando en definir los pasos a seguir para llevar la propuesta a un prototipo funcional. Estamos organizando las tareas necesarias para integrar el sensor ultrasónico con el ESP32, visualizar las lecturas y preparar las primeras pruebas. Uno de los pasos que estamos considerando es comparar las lecturas del sensor con mediciones manuales del pluviómetro para identificar diferencias y determinar qué ajustes necesita el kit. También estamos definiendo cómo distribuir las tareas y en qué orden realizarlas para incorporarlas a la carta Gantt del proyecto.
 
 
