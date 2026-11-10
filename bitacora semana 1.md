@@ -307,5 +307,11 @@ Por otra parte, durante la clase se realizó una actividad que permitió reforza
 El equipo logró mejorar la planificación durante sus reuniones, estableciendo prioridades y organizando de mejor manera las actividades pendientes. Sin embargo, también se presentaron algunas dificultades técnicas, debido a que el kit proporcionado por la universidad presentó problemas de funcionamiento al momento de intentar encenderlo, lo que dificultó el avance de las pruebas iniciales del prototipo.
 
 A pesar de estos inconvenientes, el equipo mantuvo su compromiso con el proyecto y comenzó a buscar alternativas para continuar avanzando mientras se resuelven los problemas con los componentes.
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fc117c61-0662-4014-9283-0c97c040c33b" />
+
+<img width="1600" height="1097" alt="image" src="https://github.com/user-attachments/assets/b23540bb-4348-477e-8ade-73e0bba830a2" />
+<img width="1313" height="1600" alt="image" src="https://github.com/user-attachments/assets/9d9f7009-c241-4e67-99ce-dc03085cbdb7" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b2710716-55e8-4ccc-8eb0-3fa7732d5529" />
+
 
 
