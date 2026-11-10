@@ -297,5 +297,15 @@ Durante la clase de la semana 12, presentamos la propuesta de prototipo que esco
 También escuchamos las presentaciones de nuestros compañeros y conocimos las soluciones que plantearon para sus respectivos desafíos. Fue una oportunidad para ver cómo otros equipos explicaron el problema, justificaron la elección de su prototipo y comunicaron su propuesta.
 
 Actualmente, como equipo, estamos trabajando en definir los pasos a seguir para llevar la propuesta a un prototipo funcional. Estamos organizando las tareas necesarias para integrar el sensor ultrasónico con el ESP32, visualizar las lecturas y preparar las primeras pruebas. Uno de los pasos que estamos considerando es comparar las lecturas del sensor con mediciones manuales del pluviómetro para identificar diferencias y determinar qué ajustes necesita el kit. También estamos definiendo cómo distribuir las tareas y en qué orden realizarlas para incorporarlas a la carta Gantt del proyecto.
+## Semana 13
+Durante esta semana, el equipo AluviMaipo recibió felicitaciones por parte de la profesora debido a los avances demostrados en las distintas presentaciones realizadas a lo largo del curso. Este reconocimiento fue muy positivo para el grupo, ya que reflejó el esfuerzo, la dedicación y el compromiso de cada integrante con el desarrollo del proyecto.
+
+Además, este reconocimiento permitió fortalecer la motivación, logrando una mejor organización para las próximas actividades y presentaciones. Se comenzaron a definir las tareas y responsabilidades de cada integrante para la presentación de la siguiente semana, en la cual se deberán mostrar los avances relacionados con el desarrollo del prototipo.
+
+Por otra parte, durante la clase se realizó una actividad que permitió reforzar el trabajo en equipo, la comunicación y la capacidad de tomar decisiones frente a situaciones que requieren soluciones en un tiempo limitado. Esta experiencia ayudó a comprender la importancia de tomar la iniciativa, distribuir adecuadamente las tareas y mantener una buena coordinación para enfrentar los problemas que puedan surgir.
+
+El equipo logró mejorar la planificación durante sus reuniones, estableciendo prioridades y organizando de mejor manera las actividades pendientes. Sin embargo, también se presentaron algunas dificultades técnicas, debido a que el kit proporcionado por la universidad presentó problemas de funcionamiento al momento de intentar encenderlo, lo que dificultó el avance de las pruebas iniciales del prototipo.
+
+A pesar de estos inconvenientes, el equipo mantuvo su compromiso con el proyecto y comenzó a buscar alternativas para continuar avanzando mientras se resuelven los problemas con los componentes.
 
 
